@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="mt-auto border-t-1 p-6.5 flex items-center bg-[hsl(40,29%,94%)] z-10">
-      <nav className="w-6/12 flex justify-between ml-[20%] px-9 text-xs text-[hsl(0,0%,40%)]">
+      <nav className="w-6/12 flex justify-between mx-auto px-9 text-xs text-[hsl(0,0%,40%)]">
         <a href="#">Help</a>
         <a href="#">Status</a>
         <a href="#">About</a>
